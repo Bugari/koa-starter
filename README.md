@@ -9,7 +9,7 @@ quick start
 **Clone koa-starter:**
 
 ```sh
-$ git clone https://github.com/justmyfreak/koa-starter.git
+$ git clone https://github.com/bugari/koa-starter.git
 ```
 
 **Install dependencies:**

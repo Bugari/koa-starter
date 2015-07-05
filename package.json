@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/justmyfreak/koa-starter.git"
+    "url": "https://github.com/bugari/koa-starter.git"
   },
   "keywords": [
     "koajs",
@@ -19,9 +19,9 @@
   "author": "Zainul Setyo Pamungkas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/justmyfreak/koa-starter/issues"
+    "url": "https://github.com/bugari/koa-starter/issues"
   },
-  "homepage": "https://github.com/justmyfreak/koa-starter",
+  "homepage": "https://github.com/bugari/koa-starter",
   "dependencies": {
     "config": "^1.12.0",
     "ect": "^0.5.9",
@@ -33,6 +33,12 @@
     "waterline": "^0.10.21"
   },
   "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-express-server": "^0.5.1",
+    "load-grunt-tasks": "^3.2.0",
     "mocha": "^2.2.4",
     "should": "^6.0.1",
     "supertest": "^0.15.0"
